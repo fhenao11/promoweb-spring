@@ -11,7 +11,7 @@ public class PromowebSpringApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "First Spring Azure web app - Second Edition";
+		return "First Spring Azure web app - Third Edition to the cloud";
 	}
 
 	public static void main(String[] args) {
